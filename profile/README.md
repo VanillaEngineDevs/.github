@@ -1,2 +1,2 @@
 ![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=VanillaEngineDevs&repo=Vanilla-Engine&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
-![Vanilla Engine Devs's GitHub stats](https://github-readme-stats.vercel.app/api?username=VanillaEngineDevs&show_icons=true&theme=dark)
+![Vanilla Engine Devs's GitHub stats](https://github-readme-stats.vercel.app/api?username=VanillaEngineDevs&show_icons=true&theme=radical)
