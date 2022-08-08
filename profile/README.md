@@ -6,4 +6,4 @@ uhhhh
 
 yeah
 
-[Guglio[(https://github.com/GuglioIsStupid) and [Cock Hanger](https://github.com/clothing-hanger)
+[Guglio](https://github.com/GuglioIsStupid) and [Cock Hanger](https://github.com/clothing-hanger)
