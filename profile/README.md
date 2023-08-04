@@ -6,4 +6,4 @@ uhhhh
 
 yeah
 
-[Guglio](https://github.com/GuglioIsStupid) and [get sea](https://github.com/Getsaa)
+[Guglio](https://github.com/GuglioIsStupid) and [Getsaa](https://github.com/Getsaa)
